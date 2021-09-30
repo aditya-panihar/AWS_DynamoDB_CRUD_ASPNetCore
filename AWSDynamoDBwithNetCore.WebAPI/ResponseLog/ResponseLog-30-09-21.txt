@@ -1,0 +1,16 @@
+========== Method: GetAllProduct ==========
+Start Time: 30-09-2021 08:35:05 PM
+========== Method: GetAllProduct ==========
+Start Time: 30-09-2021 08:35:06 PM
+========== Method: GetAllProduct ==========
+End Time: 30-09-2021 08:35:10 PM
+========== Method: GetAllProduct ==========
+End Time: 30-09-2021 08:35:11 PM
+========== Method: GetProductById ==========
+Start Time: 30-09-2021 08:36:02 PM
+========== Method: GetProductById ==========
+Start Time: 30-09-2021 08:36:03 PM
+========== Method: GetProductById ==========
+End Time: 30-09-2021 08:36:04 PM
+========== Method: GetProductById ==========
+End Time: 30-09-2021 08:36:05 PM
